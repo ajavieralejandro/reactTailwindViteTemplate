@@ -5,7 +5,7 @@ const Sidebar = () =>{
     <div className="lg:flex lg:items-center">
         <div className="w-full space-y-12 lg:w-1/2 ">
             <div>
-                <h1 className="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">explore our <br /> awesome Components</h1>
+                <h1 className="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">Nuestros Servicios</h1>
             
                 <div className="mt-2">
                     <span className="inline-block w-40 h-1 rounded-full bg-blue-500"></span>
@@ -66,7 +66,7 @@ const Sidebar = () =>{
 
         <div className="hidden lg:flex lg:items-center lg:w-1/2 lg:justify-center">
             <img className="w-[28rem] h-[28rem] object-cover xl:w-[34rem] xl:h-[34rem] " 
-            src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/d5c35e9c-30cd-41ee-80ff-f7443afa8f00/public" alt="" />
+            src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/57ea54ea-3efd-41c1-d274-fd1cae076900/public" alt="" />
         </div>
     </div>
 

@@ -6,7 +6,7 @@ const Header = () =>{
             <div className="content  p-2 pt-8 md:p-12 pb-12 lg:max-w-lg w-full lg:absolute top-48 right-5">
                 <div className="flex justify-between font-bold text-sm">
                 </div>
-                <h2 className="text-3xl font-semibold mt-4 md:mt-10">Audiometrías Carnet Conducir y Audífonos</h2>
+                <h2 className="text-3xl font-semibold mt-4 md:mt-10">Audiometrias de Carnet de conducir y Audifonos Digitales Bahia Blanca </h2>
                 <p className="my-3 text-justify font-medium leading-relaxed">Audiometrías de Carnet de conducir y trámites (aptitud de estudios y deportes) de 8:30hs a 11:00hs por orden de llegada. </p>
                 <p className="my-3 text-justify font-medium  leading-relaxed">Pruebas de audífonos y otros estudios auditivos con turnos programados.  </p>
 

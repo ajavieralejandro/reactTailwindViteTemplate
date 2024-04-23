@@ -28,7 +28,7 @@ const Sidebar = () =>{
                         Carnet de conducir profesional
                     </p>
                     <p className="mt-3 text-gray-500 dark:text-gray-300">
-                    Ingresos de estudios y FFAA
+                    Ingresos de estudios Ejercito y Armada(FFAA)
                 </p>
                 <p className="mt-3 text-gray-500 dark:text-gray-300">
                 Ingreso escolar

@@ -27,7 +27,7 @@ const About = ()=>{
               </MapContainer>
             </div>
             <div className="grid grid-cols-2 gap-4 mt-8">
-                <img className="w-full rounded-lg" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/7bb2530f-d386-4c56-81c7-8c7930e80000/public" alt="office content 1" />
+                <img className="w-full rounded-lg" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/83fc0821-629d-480d-dc95-f374c3bf8f00/public" alt="office content 1" />
                 <img className="mt-4 w-full lg:mt-10 rounded-lg" src="https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/9e321814-fc63-4fe2-b7d1-3c24396f5200/public" alt="office content 2" />
             </div>
         </div>

@@ -11,6 +11,8 @@ const Header = () =>{
                 <p className="my-3 text-justify font-medium  leading-relaxed">Pruebas de audífonos y otros estudios auditivos con turnos programados.  </p>
 
                 <a href="https://wa.me/+5492914258612" className="mt-2 md:mt-5 p-3 px-5 bg-green-500 text-white font-bold text-sm hover:bg-green-800">Contactanos en Whatsapp</a>
+                <p className="my-3 text-justify font-medium leading-relaxed">Fga.Pelendir Andrea </p>
+
             </div>
         </section>
     </section>
